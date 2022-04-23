@@ -6,7 +6,6 @@ test/__app
 .DS_STORE
 .nyc_output
 .idea
-.vscode/
 *.sublime-project
 *.sublime-workspace
 *.log
